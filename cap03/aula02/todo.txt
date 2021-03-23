@@ -1,0 +1,8 @@
+Capítulo 03 - Aula 02
+=====================
+
+Check ✓
+
+() Trazer último projeto feito (currículo)
+() Manipular CSS diretamente no JavaScript
+() Criar algumas classes e manipulá-las com JavaScript

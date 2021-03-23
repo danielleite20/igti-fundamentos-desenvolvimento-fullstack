@@ -1,0 +1,20 @@
+Capítulo 02 - Aula 02 - VSCode
+==============================
+
+Check ✓
+
+Parte 01 - Tipos, valores e variáveis
+-------------------------------------
+
+(✓) Abrir Developer Tools no Chrome
+(✓) Mostrar os principais tipos e valores
+(✓) Criar e utilizar variáveis
+
+
+Parte 02 - Operadores, console e comentários
+---------------------------------------------
+
+(✓) Abrir Developer Tools no Chrome
+(✓) Mostrar o console
+(✓) Mostrar os principais Operadores
+(✓) Mostrar exemplos de comentários em script.js

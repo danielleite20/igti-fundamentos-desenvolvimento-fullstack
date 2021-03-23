@@ -1,0 +1,31 @@
+Capítulo 03 - Aula 05
+=====================
+
+Check ✓
+
+() Conferir HTML pronto e integração com JavaScript
+
+() Criar estado da aplicação de forma global - indicador 
+   de edição, nome atual, vetor de nomes e referências ao 
+   input, form e botão.
+
+() Implementar addEventListener de 'load', com função start()
+
+() Na função start, definir 3 funções para - prevenir submit,
+   ativar o input e renderizar os nomes 
+
+() Em "prevenir submit", implementar o preventDefault
+
+() Em "ativar input", identificar edição ou inserção e realizar 
+   a manipulação correta do vetor de nomes.
+
+() Criar função auxiliar "clear" para limpar o nome do input, 
+   dar o foco ao input e desabilitar modo de edição.
+
+() Criar função "render", que vai ser a principal da aplicação.
+   Nela, a div "names" deve ser preenchida programaticamente com
+   uma ul e li's conforme o vetor de nomes. As li's devem conter 
+   um botão de exclusão e o nome clicável. Ao clicar no nome, deve 
+   ser ativado o modo de edição e o input deve receber o valor do 
+   nome clicado. Isole a criação do botaõ e do span em funções internas.
+
